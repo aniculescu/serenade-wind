@@ -6,6 +6,7 @@ guid: https://www.serenadewind.com/posts/survey-sea-trial-part-2/
 permalink: /posts/survey-sea-trial-part-2/
 author: sw
 layout: post
+series: survey-sea-trial
 categories:
     - Sailing Adventures
 tags:
