@@ -22,14 +22,6 @@
 
 <main id="main" class="main-content" aria-label="Content">
   <article class="h-entry">
-    <div class="page-wrapper">
-      <header class="page-header">
-        {% assign title = page.title | markdownify | strip_html %}
-        {%- if page.link -%}
-          <h1 id="page-title" class="page-title p-name"><a href="{{ page.link }}">{{ title }} <span class="link-arrow">&rarr;</span></a></h1>
-        {%- else -%}
-          <h1 id="page-title" class="page-title p-name">{{ title }}</h1>
-        {%- endif -%}
         <ul class="page-stats-bar">
           <li>
         {%- if page.patreon_url -%}
@@ -83,22 +75,39 @@
           {%- endif -%}
 {%- endif -%}
         </ul>
-        
+    <div class="page-wrapper">
+      <header class="page-header">
+        {% assign title = page.title | markdownify | strip_html %}
+        {%- if page.link -%}
+          <h1 id="page-title" class="page-title p-name"><a href="{{ page.link }}">{{ title }} <span class="link-arrow">&rarr;</span></a></h1>
+        {%- else -%}
+          <h1 id="page-title" class="page-title p-name">{{ title }}</h1>
+        {%- endif -%} 
           <div class="about categories">
           {%- if page.categories.size > 0 -%}
             <ul class="page-taxonomies">
-              <li>A blog post about:</li>
+              <li>A blog post about 
               {%- for category in page.categories -%}
-              <li class="page-taxonomy">
-                {%- if site.category_archive_path -%}
-                  <a class="p-category" href="{{ category | slugify | prepend: site.category_archive_path | relative_url }}" title="{{ site.data.text[site.locale].pages_categorized | default: 'Pages filed under' }} {{ category }}">{{ category }}</a>
-                {%- else -%}
-                  {{ category }}
-                {%- endif -%}
+              {%- if forloop.index0 > 0 and forloop.last == false -%}
+              ,&nbsp;
+              {%- endif -%}
+              {%- if forloop.last == true -%}
+               &nbsp;and&nbsp;
+              {%- endif -%}
+                <a class="p-category" href="{{ category | slugify | prepend: site.category_archive_path | relative_url }}" title="{{ site.data.text[site.locale].pages_categorized | default: 'Pages filed under' }} {{ category }}">{{ category }}</a>
+
               </li>
               {%- endfor- -%}
             </ul>
           {%- endif -%}
+          </div>
+          <div class="about follow-us">
+            To stay up to date with our content releases, be sure to subscribe to our <a href="http://feeds.feedburner.com/SerenadeWind" title="Serenade Wind RSS Feed">RSS Feed</a> or follow us on <a href="https://www.facebook.com/serenade.wind.ventures" title="Serenade Wind Facebook Page">Facebook</a> and <a href="https://www.instagram.com/serenade.wind/" title="Serenade Wind Instagram Account">Instagram</a>. 
+            <span class="patreon">
+              If you would like to delve deeper into our adventure as it unfolds, please consider joining the <a href="https://www.patreon.com/serenadewind?fan_landing=true" title="Serenade Wind Patreon Page">Serenade Wind crew</a>. Our sister site provides more information on what it means to be part of the crew, unlock the pirate’s booty, and receive other exclusive access and benefits.
+
+              The first 50 members have a gift wayting.
+            </span>
           </div>
           <div class="about excerpt">
             {{ page.excerpt }}
