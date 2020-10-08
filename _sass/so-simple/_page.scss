@@ -7,15 +7,75 @@
 .page-wrapper {
   margin: 0 auto;
   max-width: $main-max-width;
+
+  .page-title {
+    @include fluid-type($min-vw, $max-vw, 38px, 60px);
+    margin-bottom: 0.5em;
+    font-family: $title-font-family;
+    font-weight: $page-title-weight;
+    font-style: italic;
+  }
+
+  .about.post-stats {
+    display:block;
+
+     ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+
+      li {
+        font-family: "Source Sans Pro", sans-serif;
+        margin-right: 10px;
+
+        &.author-pic a {
+          display: block;
+          overflow: hidden;
+          height: 100px;
+          width: 100px;
+          border: 1px solid white;
+          border-radius: 50%;
+        }
+
+        &.post-stats time {
+          display: block;
+        }
+      }
+    }
+  }
+  
+  .about.excerpt {
+    margin-top: 1em;
+  }
+  
+  .about.follow-us {
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 1em;
+    font-weight:300;
+    padding: 1em;
+
+    p svg {
+      padding: 2px 4px;
+    }
+
+    .patreon {
+      margin-top: 1.5em;
+      display: block;
+    }
+  }
+
+  .about.patreon .patreon-post-link {
+    margin-bottom: 1em;
+    display: block;
+    border: 0;
+  }
+  
 }
 
-.page-title {
-  @include fluid-type($min-vw, $max-vw, 38px, 60px);
-  margin-bottom: 0.5em;
-  font-family: $title-font-family;
-  font-weight: $page-title-weight;
-  font-style: italic;
-}
+
 .page-image-lightbox {
     font-family: $sans-serif-font-family;
     text-align:center;
@@ -164,13 +224,9 @@
   .read-time {
     font-family: $base-font-family;
     white-space: nowrap;
+    display: block;
   }
 
-  .read-time {
-    @include breakpoint($large) {
-      
-    }
-  }
 
   .read-time + .page-date::before {
     content: "\2022";
@@ -263,6 +319,7 @@
 
 .page-share {
   margin:0 auto;
+  margin-bottom: 1.5rem;
 }
 
 .page-comments {
