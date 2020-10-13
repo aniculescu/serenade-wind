@@ -65,6 +65,21 @@
           <div class="about excerpt">
             {{ page.excerpt }}
           </div>
+          {%- if page.patreon_url -%}
+          <div class="about patreon">
+            <span class="patreon-post-link">
+              <img src="/images/patreon-banner.jpg"/>
+            </span>
+          </div>
+          {%- endif -%}
+      </header>
+      <div class="page-content">
+        <div class="e-content">
+          {{ page.content }}
+        </div>
+        {%- if page.share -%}
+          <div class="about follow-us">
+            <h2 class="series-links">More from this series:</h2>
           <div class="about post-series">
           {%- if page.series -%}
             <ul>
@@ -81,20 +96,6 @@
             </ul>
           {%- endif -%}            
           </div>
-          {%- if page.patreon_url -%}
-          <div class="about patreon">
-            <span class="patreon-post-link">
-              <img src="/images/patreon-banner.jpg"/>
-            </span>
-          </div>
-          {%- endif -%}
-      </header>
-      <div class="page-content">
-        <div class="e-content">
-          {{ page.content }}
-        </div>
-        {%- if page.share -%}
-          <div class="about follow-us">
             <h2 id="thanks-for-reading">Thanks for reading!</h2>
             <p>Share <i>{{ title }}</i> with your friends:</p>
             {% include social-share.html %}

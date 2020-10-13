@@ -51,8 +51,17 @@
     margin-top: 1em;
   }
   
+  .about.post-series {
+    font-family: $sans-serif-font-family;
+    
+    ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+    }
+  }
   .about.follow-us {
-    font-family: "Source Sans Pro", sans-serif;
+    font-family: $sans-serif-font-family;
     font-size: 1em;
     font-weight:300;
     padding: 1em;
@@ -419,9 +428,6 @@
 
   .page-title {
     text-align: left;
-    @include breakpoint($large){
-      margin-right:250px;
-    }
   }  
 }
 
