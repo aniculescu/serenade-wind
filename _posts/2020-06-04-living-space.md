@@ -14,7 +14,7 @@ tags:
     - minimalist
     - instasailing
     - projectslocum
-    - sailing-life
+    - sailinglife
     - transitions
 share: true
 image:

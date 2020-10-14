@@ -10,13 +10,13 @@ series: survey-sea-trial
 categories:
     - Sailing Adventures
 tags:
-    - boat-purchase
+    - boatpurchase
     - duediligence
     - projectslocum
     - svrjslocum
 share: true
 image:
-    thumbnail: /images/small/rjs-wing-keel_2x.jpg 
+    thumbnail: /images/small/dhn-rjs-haul-out.jpg 
 excerpt: What can you expect from a haul out for bottom paint and marine survey? Find out in Part 3 of the Survey & Sea Trial series.
 ---
 {% include toc %}

@@ -8,6 +8,7 @@ author: sw
 layout: post
 categories:
     - Relationships
+    - Minimalist Living
 tags:
     - powerofwhy
     - lifereset
@@ -18,7 +19,7 @@ tags:
 share: true
 image:
     thumbnail: /images/small/dhn-harriet-living-room.jpg 
-excerpt: Here is an update on how we stand in the final weeks of our 30-weeks to minimalism initiative. 
+excerpt: When we returned from Florida, we spent an exhausting week packing and loading the POD. Why is it that when we had 20% left to go, it was so much harder than going through the initial 80% of our stuff? Here is an update on how we stand in the final weeks of our 30-weeks to minimalism plan. 
 ---
 {% include toc %}
 
@@ -89,7 +90,7 @@ Given this backdrop, we wanted to come up with a plan that kept Xiaolong from pr
 
 On August 12, Janet and her family came over and picked up Xiaolong along with a lot of gear. For the first time in my life, I experienced the "empty nest" feeling many talk about. Less than 2 days later, he was exploring each of the rooms in his new home and making all kinds of funny noises. What a relief it was to hear that.
 
-Before heading to Florida, I wanted to visit Xiaolong in his new home. It had been a month and I missed him every day, though not as much when we were in Seattle with Emma and Silvia. When we arrived, he was friendly and curious as he usually was with strangers. He behaved as if he had no memory of living with us since he was a kitten.
+Before heading to Florida for [the survey and sea trial](/posts/survey-sea-trial-part-2/), I wanted to visit Xiaolong in his new home. It had been a month and I missed him every day, though not as much when we were in [Seattle with Emma and Silvia](/posts/seattle/). When we arrived, he was friendly and curious as he usually was with strangers. He behaved as if he had no memory of living with us since he was a kitten.
 
 Realizing that, I knew I would be the only one to remember the bond we shared. I scooped him up, gave him a belly kiss, and said goodbye.
 
@@ -102,15 +103,19 @@ Realizing that, I knew I would be the only one to remember the bond we shared. I
 
 Looking around Harriet Lane, we realize that we no longer have a living room, dining room and all the trappings of a typical, suburban life. Instead, we have a yoga studio, climbing gym, and skatepark. Our belongings which once filled a 3-bedroom, 2-car garage house is now reduced to 49 sq ft of space. 
 
-As our family and friends came over to visit us (appropriately masked during the pandemic), we took showed them a couple taped off areas. The first one ran pretty much the length of the east wing of Harriet Lane. During Palace's visit, we taped off 50' LOA and 13'4" beam. This provided everyone the scale of [s/v Rachel J Slocum](/about-rachel-j-slocum/), while we described the location of the saloon, galley, and owner's stateroom.
+As our family and friends came over to visit us (appropriately masked during the pandemic), we showed them a couple taped off areas. The first one ran pretty much the length of the east wing of Harriet Lane. During Palace's visit, we taped off 50' LOA and 13'4" beam. This provided everyone the scale of [s/v Rachel J Slocum](/about-rachel-j-slocum/), while we described the location of the saloon, galley, and owner's stateroom.
 
-The second area was the room where we had taped off 7x7 sq ft of space. Everything outside of the square must go to new homes. The only things we are keeping and taking with us to our sailboat is reflected inside this square. It blew their minds. 
+The second area was the room where we had taped off 7x7 sq ft of space. Everything outside of the square must go to new homes or to charity. The only things we are keeping and taking with us to our sailboat is reflected inside this square. It blew their minds. 
 
 {% include sticky-note.html text="Reduce possessions" %}
 {% include sticky-note.html text="Consolidate our stuff" %}
 
 After 2 years of having written our goal on the [whiteboard](/posts/time-to-go-to-the-whiteboard/) on August 2018, we finally got a chance to get rid of all of our stuff. We have that light feeling that comes with an [empty backpack](/posts/sailing-around-the-world/) so we can begin to curate experiences and not possessions.
 
-So with our 7x7 sq ft of possessions, we are ready to pack it all in a moving pod and ship it to Florida at the end of hurricane season.
+So we packed up 7x7 sq ft of possessions, loaded it all in a moving pod and shipped it to Florida.
 
-Farewell Harriet... Hello Rachel!
+{% include responsive-embed url="https://www.youtube.com/embed/6aEyCEg-p2Y" ratio="16:9" %}
+
+# Farewell Harriet... Hello Rachel!
+
+For those visually inclined, here are the highlights of how we became minimalists in less than 30 weeks. All it takes to become a minimalist: a bullet journal, tenacity and a willing partner in life. 

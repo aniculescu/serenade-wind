@@ -10,13 +10,13 @@ categories:
     - Sailing Adventures
     - Relationships
 tags:
-    - boat-purchase
+    - boatpurchase
     - coronavirus
     - instasailing
     - lifetransitions
     - projectslocum
     - quietpower
-    - sailing-life
+    - sailinglife
 share: true
 image:
     thumbnail: /images/small/syringe-and-pills-on-blue-background.jpg 

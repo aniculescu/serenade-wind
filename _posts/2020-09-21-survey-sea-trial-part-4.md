@@ -10,7 +10,7 @@ series: survey-sea-trial
 categories:
     - Sailing Adventures
 tags:
-    - boat-purchase
+    - boatpurchase
     - duediligence
     - projectslocum
     - svrjslocum
@@ -48,7 +48,7 @@ Owners are not invited because it could give them pause when they witness runnin
 
 Reading these accounts were an eye-opener for us, and we hope you also find these resources useful as well.
 
-{% include responsive-embed url="https://www.youtube.com/embed/z1_6vc5L5eQ" ratio="16:9" %}
+{% include responsive-embed url="https://www.youtube.com/embed/rEvK7RHJrqo" ratio="16:9" %}
 
 # How did RJ Slocum fare?
 

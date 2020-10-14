@@ -10,7 +10,7 @@ categories:
     - Minimalist Living
     - Sailing Adventures
 tags:
-    - boat-purchase
+    - boatpurchase
     - leanintovalues
     - lifereset
     - lifetransitions

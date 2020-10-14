@@ -14,7 +14,7 @@ tags:
     - gowiththeflow
     - shelterathome
     - transitions
-    - sailing-life
+    - sailinglife
 share: true
 image:
     thumbnail: /images/small/dhn-pantry-proteins.jpg 
@@ -237,7 +237,14 @@ Vegeta or salt to taste
 Be sure to whisk the flour and half-and-half slurry so there are no lumps.
 Add vegeta or salt at the end to taste, since the introduction of the clam juice also adds seasoning of its own. In retrospect, I also preferred the whole clams to the chopped clams. Andrew liked the consistency of this chowder, however I would add more flour to create a thicker soup. Otherwise, deelish!
 
+{% assign pwimg="dhn-pantry-spam-musubi" %}
+{% assign pwcaption="" %}
+{% assign pwpng="" %}
+{% include post-wide-image.html%}
+
 # Canned Spam Musubi
+
+On the eve of moving all our items into the PODS, it seems fitting to try to deplete as much of our provisions. This recipe numbers among Andrew's favorite, and he devoured each of them hungrily after a productive day of packing.
 
 This is Hawaii's go-to, all-season snack. It's an all-pantry recipe as you can see from the ingredient list, and incredibly delicious. It's perfect for passage-making or taking ashore while exploring. The recipe is quite simple and easy to find online. I referred to [Bon Appetit](https://www.bonappetit.com/story/spam-musubi) and [Serious Eats](https://www.seriouseats.com/recipes/2008/04/tutorial-how-to-make-hawaiian-spam-musubi-sushi.html).
 

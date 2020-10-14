@@ -14,7 +14,7 @@ tags:
     - gowiththeflow
     - instasailing
     - imonaboat
-    - sailing-life
+    - sailinglife
     - schooner
     - transitions
 share: true

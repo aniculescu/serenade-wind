@@ -11,12 +11,12 @@ categories:
     - Minimalist Living
     - Self-sustainability
 tags:
-    - boat-purchase
+    - boatpurchase
     - coronavirus
     - duediligence
     - instasailing
     - projectslocum
-    - sailing-life
+    - sailinglife
 share: true
 image:
     thumbnail: /images/small/person-s-on-boat-throwing-fishing-net.jpg 

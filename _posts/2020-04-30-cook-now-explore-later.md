@@ -15,7 +15,7 @@ tags:
     - shelterathome
     - transitions
     - instasailing
-    - sailing-life
+    - sailinglife
 share: true
 image:
     thumbnail: /images/small/anise-aroma-art-bazaar.jpg 

@@ -16,7 +16,7 @@ tags:
     - transitions
     - itaintallaboutthemoney
     - imonaboat
-    - sailing-life
+    - sailinglife
     - minimalist
 share: true
 image:

@@ -10,7 +10,7 @@ categories:
     - Sailing Adventures
     - Minimalist Living
 tags:
-    - boat-purchase
+    - boatpurchase
     - duediligence
     - projectslocum
     - svrjslocum
@@ -31,7 +31,7 @@ excerpt: Andrew and I have the best talks while we're traveling, and our discuss
 
 # Pre-Adventure Adventure
 
-After our [first whiteboard exercise](/posts/time-to-go-to-the-whiteboard/), we had some fits and starts. By October last year, we regrouped and set out a plan to change our lives and begin [a voyaging life](/posts/sailing-around-the-world/). When first we saw [Rachel J Slocum](/posts/when-first-we-saw-rachel-j-slocum/), we were smitten, however we took the time to see what other options were currently available at [BOOT](/posts/boot-2020/) in Dusseldorf. We also decided after a trip to San Diego on [our anniversary](/posts/happy-anniversary/), that it wasn't fair to see any other boats until we had a chance to have a first look at Rachel J Slocum in person. 
+After our [first whiteboard exercise](/posts/time-to-go-to-the-whiteboard/), we had some fits and starts. By October last year, we regrouped and set out a plan to change our lives and begin [a voyaging life](/posts/sailing-around-the-world/). When first we saw [Rachel J Slocum](/posts/when-first-we-saw-rachel-j-slocum/), we were smitten, however we took the time to see what other options were currently available at [BOOT](/posts/boot-2020/) in Dusseldorf. We also decided, after a trip to San Diego on [our anniversary](/posts/happy-anniversary/), that it wasn't fair to see any other boats until we had a chance to have a first look at Rachel J Slocum in person. 
 
 No boats would ever stand a chance.
 
@@ -62,17 +62,20 @@ We didn't take our plan to downsize lightly, although it did take time going thr
 
 Part of transitioning to the new lifestyle included widening our social circle and so with the help of Hugh and Bill, we joined the [Royal Yacht Club of Tasmania](/posts/yacht-club/). We had also been in touch with other friends of Bill, including full-time [cruisers](/posts/hippo-book/) and yacht designers such as [Tanton](/posts/history/). We also thought about leveling up other skills such as learning a [second language](/posts/second-language/), preparing as much as we can even if it's from [books](/posts/fictional-prep/), studying [maps and charts](/posts/where-and-when/), and figuring out ways to beef up our [sailing resumes](/posts/sailing-resume-part-1/).
 
-At the same time, we worked on various aspects of serenadewind.com including a [website redesign](/posts/website-redesign/) to future proof our needs when we're in remote spots, coming up with a [logo](/posts/new-logo/) and typography, [launching our brand](/posts/branding/), and thinking about ways to ensure this lifestyle can be [self-sutaining](/posts/join-the-crew/) over the years.
+At the same time, we worked on various aspects of serenadewind.com including a [website redesign](/posts/website-redesign/) to future proof our needs when we're in remote spots, coming up with a [logo](/posts/new-logo/) and typography, [launching our brand](/posts/branding/), and thinking about ways to ensure this lifestyle can be [self-sustaining](/posts/join-the-crew/) over the years.
 
 It isn't lost on us that the stories we tell here are at times meant to entertain such as [talking like pirates](/posts/talk-like-a-pirate/) or to inspire when we talk about [connection](/posts/linkedin/), [philanthropy](/posts/philanthropy/), [culture of character](/posts/selectively-social/) and [everyday leadership](/posts/lollipop/) as well as the difficulty of being [in the arena](/posts/in-the-arena/), dealing with naysayers, and in the end acknowledging that we are not [beautiful people](/posts/beautiful-people/).
 
 So while most boat purchases occur within 30 days from opening to closing escrow, ours took 6 months. As you can see in this recap, we found ways to manage this transition during the coronavirus pandemic. By the time we went through the [pre-purchase survey and sea trial](/posts/survey-sea-trial-part-1/), we had cleared a path forward to jump into the new life with whole hearts.
 
-{% include responsive-embed url="https://www.youtube.com/embed/gSUHgAp7V7c" ratio="16:9" %}
+{% assign pwimg="nbc-the-west-wing" %}
+{% assign pwcaption="Photo by NBC" %}
+{% assign pwpng="" %}
+{% include post-wide-image.html%}
 
 # What's next?
 
-One of my favorite television series is the West Wing. The [White House](https://www.youtube.com/watch?v=DUwm6WJRPIQ) portrayed is a highly idealized world of intellectual debate and listening to the merits of an argument before making a decision. In this 60-second clip, President Barlet asks, "What's next?" which is his way of communicating that he is prepared to take on the next weighty issue as he grinds through each day while in the Oval office. 
+One of my favorite television series is the West Wing. The [White House](https://www.youtube.com/watch?v=DUwm6WJRPIQ) portrayed is a highly idealized world of intellectual debate and listening to the merits of an argument before making a decision. In this 60-second clip, President Barlet asks, ["What's next?"](https://www.youtube.com/embed/gSUHgAp7V7c) which is his way of communicating that he is prepared to take on the next weighty issue as he grinds through each day while in the Oval office. 
 
 When looking back at the past year of changes in our lives, we are not resting on our laurels. We recognize that there is a lot more to do, and we eagerly look forward to tackling what's next.
 
@@ -114,7 +117,7 @@ During this time, we are finalizing the inventory of items we are taking aboard.
 
 # Minimalism Update
 
-Now that we have a better idea of stowage aboard RJ Slocum, we are setting aside the remaining items we will be taking aboard. As we talked about in [Living Space](/posts/living-space/), tools, linens, galley equipment were the big unknowns prior to the trip. Now, we can close out those items and pack them up. We have a POD scheduled to come next week and will deliver our personal items to Florida within 12 days.
+Now that we have a better idea of stowage aboard RJ Slocum, we are setting aside the remaining items we will be taking aboard. As we talked about in [Living Space](/posts/living-space/), tools, linens, galley equipment were the big unknowns prior to the trip. Now, we can close out those items and pack them up. We have a POD scheduled to come later today and will deliver our personal items to Florida within 12 days.
 
 As we look around, we are amazed to see how much progress has been made. We'll elaborate on each of those steps in our next post on minimalism. A few smaller items still remain. Luckily, my cousin Janet offered to include them in her family's semi-annual trip to Mexico to donate to the missionaries. 
 
@@ -125,3 +128,8 @@ We are embarking on a lot of changes this year, one of which is, pursuing a [lif
 More isn't better. More is just more.   
 
 What's in [your backpack](https://www.youtube.com/watch?v=UsRP9EUrXjo "What’s in your backpack")? Our backpack is nearly empty. As we set out with our goal two years ago to [sail around the world](/posts/sailing-around-the-world/), we can now selectively curate experiences rather than possessions.
+
+{% assign pwimg="person-holding-mug-adventure-begins" %}
+{% assign pwcaption="" %}
+{% assign pwpng="" %}
+{% include post-wide-image.html%}

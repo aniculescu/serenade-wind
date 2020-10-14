@@ -11,13 +11,13 @@ categories:
     - Relationships
     - Self-sustainability
 tags:
-    - boat-purchase
+    - boatpurchase
     - coronavirus
     - duediligence
     - instasailing
     - projectslocum
     - transitions
-    - sailing-life
+    - sailinglife
 share: true
 image:
     thumbnail: /images/small/woman-sitting-on-luggage.jpg 

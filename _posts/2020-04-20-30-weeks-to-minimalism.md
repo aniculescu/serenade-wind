@@ -94,8 +94,12 @@ Here is how we fared in this effort over the summer of 2020.
  - Week 12 - once you've narrowed down what you want to take, here are some [strategies to upcycle](/posts/matching-gifts/) your stuff
  - Week 15 - don't forget to deal with your [digital assets](/posts/shutterbug/)
  - Week 20 - all the furniture can't come with us aboard, so 80% of the large items moved out over [Labor Day weekend](/posts/talk-like-a-pirate/)
- - Week 22 - inventory s/v Rachel J Slocum and determine what we will keep
- - Week 25 - after the survey and sea trial, edit some more
- - Week 26 - moving aboard s/v Rachel J Slocum
+ - Week 22 - [inventory s/v Rachel J Slocum](/posts/survey-sea-trial-part-5/) and determine what we will keep
+ - Week 25 - after the survey and sea trial, [edit some more](/posts/harriet-rachel/) 
+ - Week 26 - [moving out](/posts/mini-me/) and [moving aboard](/posts/all-aboard/) s/v Rachel J Slocum 
 
-So in less than 30 weeks, we pretty much nailed it. We officially became minimalists. All it takes to become a minimalist: a bullet journal, tenacity and a willing partner in life. 
+{% include responsive-embed url="https://www.youtube.com/embed/6aEyCEg-p2Y" ratio="16:9" %}
+
+For those visually inclined, here are the highlights of how we became minimalists in less than 30 weeks. All it takes to become a minimalist: a bullet journal, tenacity and a willing partner in life. 
+
+

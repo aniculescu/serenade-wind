@@ -9,10 +9,10 @@ layout: post
 categories:
     - Relationships
 tags:
-    - boat-purchase
+    - boatpurchase
     - instaclimb
     - instasailing
-    - sailing-life
+    - sailinglife
     - senderone
     - transitions
 share: true

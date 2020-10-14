@@ -9,11 +9,11 @@ layout: post
 categories:
     - Sailing Adventures
 tags:
-    - boat-purchase
+    - boatpurchase
     - duediligence
     - instasailing
     - projectslocum
-    - sailing-life
+    - sailinglife
 share: true
 image:
     thumbnail: /images/small/rjs-stern-transom.jpg 

@@ -9,13 +9,13 @@ layout: post
 categories:
     - Sailing Adventures
 tags:
-    - boat-purchase
+    - boatpurchase
     - coronavirus
     - duediligence
     - powerofwhy
     - projectslocum
     - leanintovalues
-    - sailing-life
+    - sailinglife
 share: true
 image:
     thumbnail: /images/small/bridge-colorful-colourful-dock.jpg 
