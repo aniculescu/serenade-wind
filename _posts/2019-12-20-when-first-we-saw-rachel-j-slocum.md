@@ -10,9 +10,9 @@ categories:
     - Sailing Adventures
 tags:
     - bluewater
-    - boat-purchase
+    - boatpurchase
     - duediligence
-    - sailing-life
+    - sailinglife
     - imonaboat
     - schooner
     - transitions

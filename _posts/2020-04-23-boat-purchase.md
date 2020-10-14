@@ -9,14 +9,14 @@ layout: post
 categories:
     - Sailing Adventures
 tags:
-    - boat-purchase
+    - boatpurchase
     - duediligence
     - imonaboat
     - instasailing
     - itaintallaboutthemoney
     - leanintovalues
     - lifetransitions
-    - sailing-life
+    - sailinglife
 share: true
 image:
     thumbnail: /images/small/photo-of-beach-during-dawn.jpg 
@@ -126,4 +126,4 @@ As mentioned above, we derived these answers for ourselves through an iterative 
 Here are each of the stories we wrote on our process around buying a boat.
 
 {% assign currPost = page.permalink %}
-{% include related-posts.html type="tag" value="boat-purchase" order="asc" %}
+{% include related-posts.html type="tag" value="boatpurchase" order="asc" %}

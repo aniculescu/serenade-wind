@@ -9,7 +9,7 @@ layout: post
 categories:
     - Sailing Adventures
 tags:
-    - boat-purchase
+    - boatpurchase
     - duediligence
     - projectslocum
     - svrjslocum

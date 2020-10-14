@@ -11,7 +11,7 @@ categories:
     - Sailing Adventures
     - Self-sustainability
 tags:
-    - boat-purchase
+    - boatpurchase
     - diy
     - foodporn
     - macguyver

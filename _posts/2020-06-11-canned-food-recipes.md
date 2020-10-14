@@ -11,7 +11,7 @@ categories:
 tags:
     - foodporn
     - coronavirus
-    - sailing-life
+    - sailinglife
     - minimalist
     - transitions
 share: true

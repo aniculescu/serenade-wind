@@ -12,7 +12,7 @@ categories:
 tags:
     - coronavirus
     - diy
-    - sailing-life
+    - sailinglife
     - instasailing
     - shelterathome
     - transitions

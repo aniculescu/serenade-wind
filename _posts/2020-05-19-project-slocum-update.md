@@ -9,13 +9,13 @@ layout: post
 categories:
     - Sailing Adventures
 tags:
-    - boat-purchase
+    - boatpurchase
     - bluewater
     - cultureofcharacter
     - gowiththeflow
     - instasailing
     - powerofwhy
-    - sailing-life
+    - sailinglife
     - transitions
 share: true
 image:

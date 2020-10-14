@@ -16,7 +16,7 @@ tags:
     - schooner
     - transitions
     - instasailing
-    - sailing-life
+    - sailinglife
 share: true
 image:
     thumbnail: /images/small/abstract-blur-bubble-clean.jpg 

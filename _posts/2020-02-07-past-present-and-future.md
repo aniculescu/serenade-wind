@@ -9,7 +9,7 @@ layout: post
 categories:
     - Minimalist Living
 tags:
-    - boat-purchase
+    - boatpurchase
     - cultureofcharacter
     - itaintallaboutthemoney
     - leanintovalues

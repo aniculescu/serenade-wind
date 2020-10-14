@@ -14,7 +14,7 @@ tags:
     - gowiththeflow
     - shelterathome
     - transitions
-    - sailing-life
+    - sailinglife
 share: true
 image:
     thumbnail: /images/small/dhn-pantry-proteins.jpg 

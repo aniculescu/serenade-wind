@@ -10,7 +10,7 @@ categories:
     - Sailing Adventures
     - Minimalist Living
 tags:
-    - boat-purchase
+    - boatpurchase
     - duediligence
     - projectslocum
     - svrjslocum

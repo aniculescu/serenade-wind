@@ -12,7 +12,7 @@ tags:
     - bluewater
     - foodporn
     - minimalist
-    - sailing-life
+    - sailinglife
     - shelterathome
     - transitions
 share: true
