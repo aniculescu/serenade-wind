@@ -53,7 +53,7 @@
                     {%- if forloop.index0 > 0 and forloop.last == false -%}
                 ,&nbsp;
                     {%- endif -%}
-                    {%- if forloop.last == true -%}
+                    {%- if page.categories.size < 2 and forloop.last == true -%}
                 &nbsp;and&nbsp;
                     {%- endif -%}
                 <a class="p-category" href="{{ category | slugify | prepend: site.category_archive_path | relative_url }}" title="{{ site.data.text[site.locale].pages_categorized | default: 'Pages filed under' }} {{ category }}">{{ category }}</a>
