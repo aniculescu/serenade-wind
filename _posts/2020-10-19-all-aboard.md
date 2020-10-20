@@ -79,7 +79,7 @@ As we go through this phase of moving in, I am reminded of the [whiteboard](/pos
 
 I am reminded of the scene from [Under the Tuscan Sun](http://www.script-o-rama.com/movie_scripts/u/under-the-tuscan-sun-script-transcript.html), when Frances (played by Diane Lane) decided to buy and restore a run-down villa in Tuscany, where she has inherited ten thousand empty wine bottles, one grape, every issue of *La Nazione* printed in 1958, and assorted previous tenants. 
 
-As I wipe each surface, I take my time imagining the stories these walls could tell. With each layer of crud that I scrape up, I appreciate the craftsmanship and detail underneath. But when I vacuumed the carcasses of assorted previous tenants, I blanched at the sight, blasted a cloud of [diatomacous earth](http://npic.orst.edu/factsheets/degen.html), and imagine future critters shriveling up within their exoskeletons. 
+As I wipe each surface, I take my time imagining the stories these walls could tell. With each layer of crud that I scrape up, I appreciate the craftsmanship and detail underneath. But when I vacuumed the carcasses of assorted previous tenants, I blanched at the sight, blasted a cloud of [diatomacous earth](http://npic.orst.edu/factsheets/degen.html), and imagined future critters shriveling up within their exoskeletons. 
 
 > Never lose your childish enthusiasm, and things will come your way. ~ Katherine, Under the Tuscan Sun
 
