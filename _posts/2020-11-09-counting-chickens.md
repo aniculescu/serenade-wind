@@ -7,7 +7,7 @@ permalink: /posts/counting-chickens/
 author: sw
 layout: post
 categories:
-    - Culinary Adventures
+    - Self-sustainability
 tags:
     - sailinglife
     - gowiththeflow
@@ -41,7 +41,7 @@ Once we had a handle on that, Bill dropped by to help us pull out the compressor
 
 # 10:00
 
-It was a balmy sunny day with scarcely a whisper of wind. Andrew and I sat in our cockpit sipping our morning coffee and tea. Unbeknownst to us, Rich was messing with taking something apart on his boat, and he accidentally discharged bear spray. He was hacking quite a bit as well as Lyn. He looked around to see which way the wind was blowing and whether we would start coughing as well. 
+It was a balmy, sunny day with scarcely a whisper of wind. Andrew and I sat in our cockpit sipping our morning coffee and tea. Unbeknownst to us, Rich was messing with taking something apart on his boat, and he accidentally discharged bear spray. He was hacking quite a bit as well as Lyn. He looked around to see which way the wind was blowing and whether we would start coughing as well. 
 
 No disturbance on our boat, to his relief.
 
@@ -78,7 +78,7 @@ The next two hours revealed some faulty wiring and connections. Through trial an
 
 > Dans les champs de l'observation le hasard ne favorise que les esprits préparés. ~ Louis Pasteur
 
-...or to paraphrase, "Luck favors the prepared." Since Andrew had taken the time to inventory various compartments of spares, they were also quickly accessed and made available. I dutifully held the LED shop light while the two of them made repairs.
+...or to paraphrase, "Luck favors the prepared." Since Andrew had taken the time to inventory various compartments of spares, the plugs, screws and any other necessary tools were quickly accessed and made available. I dutifully held the LED shop light while the two of them made repairs.
 
 {% assign pwimg="photo-of-blue-sea" %}
 {% assign pwcaption="" %}
@@ -93,7 +93,7 @@ Bill called up Jeff to offer his mea culpa and status on the refrigeration. Then
 
 Given our limited refrigeration space, we had kept the curry at room temperature overnight. My initial inclination was to worry about spoilage despite having taken care to use only ingredients that were shelf-stable. My second thought was if each ingredient was originally shelf-stable before a heating process, then the sum of the parts ought to be shelf-stable afterwards. 
 
-Over lunch, we talked about diving gear, free diving, spear fishing, teak decks, and the unsolicited advice from Bill to get rid of 80% of the personal items we have on the boat. He called them toys. Andrew deflected this advice with a joke. Still, there was a palpable tension created simply by the original owner pushing his own agenda and his tendency to not let go of being a captain on his boat. 
+Over lunch, we talked about diving gear, free diving, spear fishing, teak decks, and the unsolicited advice from Bill to get rid of 80% of the personal items we have on the boat. He called them toys. Andrew deflected this advice with a joke. Still, there was a palpable tension created simply by the original owner pushing his own agenda and his tendency to not let go of being a captain on a boat that is no longer his to command. 
 
 A lifetime of habit is hard to break. 
 
