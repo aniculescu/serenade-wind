@@ -15,7 +15,7 @@ tags:
 share: true
 image:
     thumbnail: /images/small/dhn-yachting-mags-landscape.jpg 
-excerpt: Perhaps when you meet a new boat owner who has invested in a 30-year old boat, it screams history buff. Perhaps it doesn't. But Rich had us pegged for sailors who are nostalgic for a simplifer life and can find value in learning from the pages of history.
+excerpt: Perhaps when you meet a new boat owner who has invested in a 30-year old boat, it screams history buff. Perhaps it doesn't. But Rich had us pegged for sailors who are nostalgic for a simpler life and can find value in learning from the pages of history.
 ---
 {% include toc %}
 
@@ -30,9 +30,9 @@ Not one week into living aboard s/v Rachel J Slocum, we received a few gifts fro
 
 Heck yeah.
 
-Perhaps when you meet a new boat owner who has invested in a 30-year old boat, it screams history buff. Perhaps it doesn't. But Rich had us pegged for sailors who are nostalgic for a simplifer life and can find value in learning from the pages of history.
+Perhaps when you meet a new boat owner who has invested in a 30-year old boat, it screams history buff. Perhaps it doesn't. But Rich had us pegged for sailors who are nostalgic for a simpler life and can find value in learning from the pages of history.
 
-Roughly 15 magazines were in the stack, ranging from the earliest issue of April 1950 [The Rudder](http://navalmarinearchive.com/collections/rudder.html) priced at a staggering 10 cents per issue to the latest issue August 1972 [Yachting Monthly](https://www.yachtingmonthly.com/) priced at 25p. 
+Roughly 15 magazines were in the stack, ranging from the earliest issue of April 1950 [The Rudder](http://navalmarinearchive.com/collections/rudder.html) priced at a staggering 40 cents per issue to the latest issue August 1972 [Yachting Monthly](https://www.yachtingmonthly.com/) priced at 25p. 
 
 Andrew has been good natured about taking on additional boat jobs based on the recommendations from Rich and Bill. This treasure trove compounded the list of things to fix and learn with reading material to ward off any threat of becoming bored while living on a boat.
 
