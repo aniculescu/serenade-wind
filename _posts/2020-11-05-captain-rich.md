@@ -16,7 +16,7 @@ tags:
     - diy
 share: true
 image:
-    thumbnail: /images/small/dhn-boat-neighbors.jpg 
+    thumbnail: /images/small/background-beach-blue-cave.jpg 
 excerpt: One of the key selling points of the voyaging lifestyle is becoming a part of the community of sailors. We know of no better way of being introduced to this community than to have as neighbors, Captain Rich and his girlfriend Lyn. 
 ---
 {% include toc %}
