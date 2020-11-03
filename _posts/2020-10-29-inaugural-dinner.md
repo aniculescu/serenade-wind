@@ -76,6 +76,8 @@ So without further ado, here is the recipe for the inaugural dinner we had aboar
 
 It's our home.
 
+---
+
 ## Directions 
 
 Starting with, 
@@ -122,6 +124,8 @@ We stored our leftovers in a square silicone container. Given our space limitati
 Note, these links are provided for your reference; there is no Amazon affiliate marketing. 
 
 There was enough to provide a meal for a second dinner which could be heated up in the same pressure cooker, on steam for 15 minutes. Take care not to reheat it too often. 
+
+---
 
 # Boat Show
 

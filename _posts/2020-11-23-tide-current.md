@@ -1,5 +1,5 @@
 ---
-id: 132
+id: 133
 title: Tide and Current
 date: 2020-11-23T12:03:12+00:00
 guid: https://www.serenadewind.com/posts/tide-current/
@@ -14,12 +14,12 @@ tags:
     - lifetransitions
 share: true
 image:
-    thumbnail: /images/small/dhn-boat-neighbors.jpg 
+    thumbnail: /images/small/dhn-new-river-brandy.jpg 
 excerpt: Not too long ago, checking the weather used to be a 30 second affair, looking to see how hot the day would be and whether to bring a jacket or not. Now that we've moved onto a boat, it becomes much more involved, including watching for tides and currents among other variables. 
 ---
 {% include toc %}
 
-{% assign pwimg="dhn-boat-neighbors" %}
+{% assign pwimg="dhn-new-river-brandy" %}
 {% assign pwcaption="" %}
 {% assign pwpng="" %}
 {% include post-wide-image.html%}
@@ -29,6 +29,11 @@ excerpt: Not too long ago, checking the weather used to be a 30 second affair, l
 Late summer during our second look trip, we were astounded at the change in water levels due to the tides. At high tide, s/v Rachel J Slocum's dock was flooded by half a foot and one needs to step up at least one meter to board the boat, making transport of goods and individuals perilous. 
 
 As a result, we had learned to check for tidal information from [US Harbors](https://www.usharbors.com/harbor/florida/andrews-avenue-bridge-new-river-fl/tides/) on a daily basis and then plan our departure from the boat accordingly. In time, I hope this information would come intuitively as I calculate the lunar day (24 hours and 50 minutes) versus a solar day (24 hours) and adjust my perception of high tide and low tide accordingly.
+
+{% assign pwimg="pexels-alex-andrews-moon-phases" %}
+{% assign pwcaption="Photo by Alex Andrews" %}
+{% assign pwpng="" %}
+{% include post-wide-image.html%}
 
 The reason that a lunar day is longer than a normal 24-hour day is because the moon rotates around the Earth in the same direction that the Earth is spinning. It takes the Earth an extra 50 minutes to “catch up” to the moon.
 

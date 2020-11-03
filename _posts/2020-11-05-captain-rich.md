@@ -71,7 +71,7 @@ On the day we bid farewell to our car rental - and with that the mobility of get
 
 As the sun was setting, we walked along the docks and weaved our way toward [Hardy Park Bistro](https://www.hardyparkbistro.com/), a local spot started by a galley cook on a megayacht. In its heyday, the place was packed, according to Rich, with lines of people in expensive cars waiting for coveted tables. After the COVID lockdown (and even now), the place is a shadow of its former self. As we sat at a communal high top in the covered patio, I took in the atmosphere. It's more relaxed and quiet, and therefore more to our liking as [social introverts](/posts/selectively-social/).
 
-The conversation at dinner meandered as we got to know each other. Some of the highlights include learning that Dave:
+The conversation at dinner meandered as we got to know each other. Some of the highlights include learning that Rich:
 
  - crossed several oceans in a [Westerly 24' sloop](https://sailboatdata.com/sailboat/westerly-25)
  - has been a vegetarian for over 70 years
@@ -95,7 +95,7 @@ Rich had spent some time aboard s/v Rachel J Slocum working on repairs with Bill
 
 Did I mention how blessed we feel living next to Rich? 
 
-Not only does he have an encyclopedic knowledge, he is also genenerous with his time and insights. He offered a small jar of Tiger Balm when he first learned Andrew had fallen into the lazarette. (He swears by both Tiger Balm and hydrogen peroxide). He and Lyn gifted us an enormous avocado and offered to give us rides in Lyn's jeep whenever we needed it.
+Not only does he have an encyclopedic knowledge, he is also genenerous with his time and insights. He offered a small jar of Tiger Balm when he first learned Andrew had fallen into the lazarette. (He swears by both Tiger Balm, hydrogen peroxide and 3M blue tape... the three things you absolutely must have on board). He and Lyn gifted us an enormous avocado and offered to give us rides in Lyn's jeep whenever we needed it.
 
 I am reminded of the passage from Beth Leonard's [Voyager's Handbook](https://read.amazon.com/kp/embed?asin=B0072UO1VA&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_FJoHEbN7G53A8), where it took over 2 years before she and her husband felt they were finally part of the cruisers community. After years of *taking* from generous new friends and more experienced sailors, that moment happened when they could finally *give* and contribute back to the community. 
 
