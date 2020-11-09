@@ -32,7 +32,7 @@ As new boat owners, you want to believe that when a boat is described as ready t
 
 Our boat had a niggling issue with the compressor for the [Sea Frost SA-111](http://www.seafrost.com/pdfs/SHORE%20ASSIST/SA3-134.pdf) refrigerator system, which was known at the time of the sale, and made it the seller's responsiblity to fix. If we wanted to replace or upgrade the refrigeration, that would be on us as buyers. The night before we arrived in Florida, Bill had installed the compressor but it didn't work. So we were left without the use of our refrigerator for a couple weeks while we dealt with the ordeal of moving.
 
-Once we had a handle on that, Bill dropped by to help us pull out the compressor so that we could take it to Jeff (authorized Sea Frost distributor and servicer) to have it bench tested. 
+Once we had a handle on that, Bill dropped by to help us pull out the compressor so that we could take it to Jeff of [Hawthorne Marine](https://hawthornemarine.com/) (authorized Sea Frost distributor and servicer) to have it bench tested. 
 
 {% assign pwimg="dhn-rjs-shut-off-valves" %}
 {% assign pwcaption="" %}
