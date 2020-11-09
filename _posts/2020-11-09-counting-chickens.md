@@ -126,7 +126,10 @@ As the day was winding down, the refrigation system was mostly working. It's har
 
 After a day of observation, it seems we'll need to take a two-pronged approach to learn about the boat systems. This simple exercise of relying on Bill's knowledge to deinstall, reinstall and trouble shoot a refrigeration system taught me that it wouldn't be enough. We'll need to be proactive and learn the manuals ourselves, perhaps sanity checking against Bill's experience. 
 
-And because [Still Counting](https://www.youtube.com/watch?v=k-nm9IBP8hY) by Volbeat was running through my head while writing this story, I leave you with this video.  
+Less than a week later, the compressor failed. We spent a couple days looking for leaks and troubleshooting with the help of Seafrost to no avail. For the moment, we are making do using our well-insulated refrigerator and freezer simply as ice boxes. This is a short-term solution for dockside refrigeration. 
+
+The more important test is to ensure that the engine-powered refrigeration works, and we won't test that until we take our maiden voyage. 
+
+So, we are counting down the days until then. In the meantime, I leave you with this video of [Still Counting](https://www.youtube.com/watch?v=k-nm9IBP8hY) by Volbeat since the song was running through my head while writing this story.  
 
 {% include responsive-embed url="https://www.youtube.com/embed/k-nm9IBP8hY" ratio="16:9" %}
-
