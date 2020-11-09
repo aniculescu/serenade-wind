@@ -133,3 +133,23 @@ The more important test is to ensure that the engine-powered refrigeration works
 So, we are counting down the days until then. In the meantime, I leave you with this video of [Still Counting](https://www.youtube.com/watch?v=k-nm9IBP8hY) by Volbeat since the song was running through my head while writing this story.  
 
 {% include responsive-embed url="https://www.youtube.com/embed/k-nm9IBP8hY" ratio="16:9" %}
+
+# In other news...
+
+We're braving through Tropical Storm Eta while on the dock. We have a spiderweb of docklines securing us to ward against the wind, strong currents, coastal flooding, and storm surge. 
+
+At one point, I spied captain Rich in his foulies looking at our boat, and I went topside to see what was going on. He saw a white canvas cushion with a nautical figure 8 rope design floating against our hull. He had a boat hook in hand and asked us if it was ours. I replied in the negative that I didn't recognize it. Moments, later Andrew joined me on deck and upon closer examination, he saw some creepy crawlies on the pillow, including a cockroach. We sent the critter safe-haven downstream.
+
+After attending to bowlines and sighting the rising tide and flooding, we went down below and hoped for the best. 
+
+The worst part of this experience was feeling cooped up. Andrew was desperate for fresh air. Each respite we had from the torrential rain, he would stand at the companion way drinking in the fresh air. As for captain Rich, he was staving off boredom by taking things apart just to fix them. In contrast to the others, I took a nap and did some reading and writing.
+
+The rain has been pretty steady throughout the day and night. We roll around in our berth, but feel pretty secured with the docklines. We have a near full water tank, access to shorepower, and plenty of shelf-stable provisions for a couple of weeks. 
+
+> I am not afraid of storms, for I am learning to sail my ship. ~ Louisa May Alcott 
+
+In the end, staying on the boat during these conditions has been a good learning experience for us. Andrew spent an hour yesterday on a videoconference showing our friends Subu and Bill (and their sons) a tour of the boat. When the topic of safety came up during the hurricane/tropical storm Eta, Andrew articulated that we both wanted to stay with the boat and that there was no where to go. In response, Bill suggested, "There's a thing called a hotel..."
+
+Where's the fun in that? 
+
+We're on an adventure! Just as we had experienced [storms in Greece](/posts/sailing-resume-sequel/), we look forward to a broad range of conditions so we can get to know our boat better. In the process, we also get to know ourselves better as well as our resolve. 
