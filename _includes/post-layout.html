@@ -30,12 +30,12 @@
         {%- else -%}
           <h1 id="page-title" class="page-title p-name">{{ title }}</h1>
         {%- endif -%}
+        {%- assign author = page.author | default: page.authors[0] | default: site.author -%}
+        {%- assign author = site.data.authors[author] | default: author -%}
           <div class="about post-stats">
             <ul>
               <li class="author-pic">
-                <a href="/about-serenade-wind/#denise" title="About Denise">
-    {%- assign author = page.author | default: page.authors[0] | default: site.author -%}
-    {%- assign author = site.data.authors[author] | default: author -%}
+                <a href="/about-serenade-wind/#{{author.name | downcase}}" title="About {{author.name}}">
                 <img src="{{author.picture}}" alt="{{author.name}}">
                 <span>{{author.name}}</span>
               </a>
@@ -80,9 +80,11 @@
         </div>
         {%- if page.share -%}
           <div class="about follow-us">
-            <h2 class="series-links">More from this series:</h2>
-          <div class="about post-series">
+            
+          
           {%- if page.series -%}
+          <div class="about post-series">
+            <h2 class="series-links">More from this series:</h2>
             <ul>
               {% assign series-posts = site.posts | reverse | where: 'series', page.series %}
               {%- for post in series-posts -%}
@@ -95,8 +97,9 @@
               </li>              
               {%- endfor -%}
             </ul>
-          {%- endif -%}            
           </div>
+          {%- endif -%}            
+          
             <h2 id="thanks-for-reading">Thanks for reading!</h2>
             <p>Share <i>{{ title }}</i> with your friends:</p>
             {% include social-share.html %}
