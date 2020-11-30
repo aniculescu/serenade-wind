@@ -1,7 +1,7 @@
 ---
 id: 136
 title: Never Alone
-date: 2020-12-07T12:03:12+00:00
+date: 2020-12-10T12:03:12+00:00
 guid: https://www.serenadewind.com/posts/never-alone/
 permalink: /posts/never-alone/
 author: sw
@@ -116,7 +116,5 @@ I enjoy the idea that an albatross may accompany us across the Southern Ocean wi
 
 # Never Alone 
 
-This blog is a grab bag of stories and inspiration over the past few weeks touching on the inherent fear that comes with significant passagemaking. We'll be offshore sailing for over 1,000 nautical miles and will not see another soul. 
-
-While we've touched upon our inherent tendency to be [selectively social](/posts/selectively-social/), we see this as an opportunity to be closer to nature and to each other.
+This post is a grab bag of stories and inspiration over the past few weeks touching on the inherent fear that comes with significant passagemaking. While we've touched upon our inherent tendency to be [selectively social](/posts/selectively-social/), we see this as an opportunity to be closer to nature and to each other.
 
