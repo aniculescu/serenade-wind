@@ -17,6 +17,25 @@ sw:
     - title: YouTube
       url: https://www.youtube.com/channel/UCzWV4eWypP_s2AzRsCqZ3Kw
       icon: fab fa-youtube-square
+andrew:
+  name: Andrew
+  picture: https://www.gravatar.com/avatar/081552cd9495210cae6eed80448b74c0?s=200
+  links:
+    - title: Instagram
+      url: https://instagram.com/serenade.wind
+      icon: fab fa-instagram-square
+    - title: Facebook
+      url: https://www.facebook.com/pg/serenade.wind.ventures/
+      icon: fab fa-facebook-square
+    - title: Twitter
+      url: https://twitter.com/serenade_wind
+      icon: fab fa-twitter-square
+    - title: Reddit
+      url: https://www.reddit.com/user/serenade_wind
+      icon: fab fa-reddit-square
+    - title: YouTube
+      url: https://www.youtube.com/channel/UCzWV4eWypP_s2AzRsCqZ3Kw
+      icon: fab fa-youtube-square
 generic:
   name: SerenadeWind
   picture: https://0.gravatar.com/avatar/0d222f5c5bc1a9c406378f4f77524a34?s=100
