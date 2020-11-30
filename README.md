@@ -1,4 +1,4 @@
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d03825f9-f5d1-496a-a14c-e1015126fde6/deploy-status)](https://app.netlify.com/sites/serenadewind/deploys)
 # SerenadeWind.com
 
 ## Tools used in this project
