@@ -174,7 +174,7 @@ r/cruising RPM (1200 RPM), high torque. Completely rebuilt May 2018. Exclusively
 {% include post-image-gallery.html gallery=site.data.galleries.the-boat.exterior galId="rjs-exterior" %}
 
 # Interior boat gallery
-{% include responsive-embed url="https://youtu.be/Qbjkl673mEc" ratio="16:9" %}
+{% include responsive-embed url="https://www.youtube.com/embed/Qbjkl673mEc" ratio="16:9" %}
 {% include post-image-gallery.html gallery=site.data.galleries.the-boat.interior galId="rjs-interior" %}
 
 If you would like to learn more about her design, check out the [research](/posts/history/) we uncovered, which includes articles published in Yachting World and Sailing Magazine.
