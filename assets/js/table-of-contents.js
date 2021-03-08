@@ -37,13 +37,11 @@ function isScrolledIntoView(elem) {
     return ((elemBottom <= docViewBottom) && (elemTop >= docViewTop));
 }
 
-
-
 let mainTocLinks = document.querySelectorAll("#markdown-toc li a");
 let mainSections = document.querySelectorAll(".e-content h1, .e-content h2, .e-content h3, .e-content h4, .e-content h5, .e-content h6");
 let tocMenu = document.getElementById("markdown-toc");
 let tocWrapper = document.getElementsByClassName("toc-wrapper");
-let postEnd = $("#thanks-for-reading");
+let postEnd = $(".page-share");
 let isMobile = false;
 
 if($(".toc-wrapper").css("display") !== 'none'){
@@ -54,7 +52,7 @@ var elmTop = function(elem){
     var rect = elem.getBoundingClientRect();
     var win = elem.ownerDocument.defaultView;
 
-    return rect.top;// + win.pageYOffset;
+    return rect.top;
 }
 
 var outerPane = $("#primary-nav"),
@@ -78,11 +76,7 @@ setInterval(function() {
             $(".toc-wrapper").css("display", "none");
         }
 
-        // if(isScrolledIntoView(postEnd)) {
-        //     $(".toc-wrapper").css("display", "none");
-        // }
-        
-        if(serWind.isElementInView("#thanks-for-reading")){
+        if(serWind.isElementInView(".page-share")){
             $(".toc-wrapper").css("display", "none");
         }        
         // Check your page position and then
