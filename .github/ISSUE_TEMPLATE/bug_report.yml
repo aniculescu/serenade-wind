@@ -1,4 +1,5 @@
-name: Found a Bug! :bug:
+name: "Found a Bug! :bug:"
+title: "[BUG] "
 description: A new bug found.
 labels: bug
 body:
