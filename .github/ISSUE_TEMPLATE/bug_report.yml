@@ -1,7 +1,7 @@
 name: "Found a Bug! :bug:"
 title: "[BUG] "
 description: A new bug found.
-labels: bug
+labels: ["bug"]
 body:
   - type: markdown
     attributes:
@@ -30,4 +30,7 @@ body:
         - Microsoft Edge
   - type: input
     id: browswer_version
-    label: Browser version
+    attributes:
+      label: Browser version
+      description: "Please include your browser version"
+      placeholder: "Version 1.43.93 Chromium: 105.0.5195.127 (Official Build) (x86_64)"
