@@ -1,0 +1,10 @@
+name: Neon issue
+description: A new issue to be filed.
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks in advance for taking the time to follow this issue!
+        For consistency sake, please fill out the following simple form.
+
+
