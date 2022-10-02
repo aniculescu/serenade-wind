@@ -1,5 +1,6 @@
-name: Found a Bug! :bug
+name: Found a Bug! :bug:
 description: A new bug found.
+labels: bug
 body:
   - type: markdown
     attributes:
@@ -26,5 +27,6 @@ body:
         - Chrome
         - Safari
         - Microsoft Edge
-
-
+  - type: input
+    id: browswer_version
+    label: Browser version
