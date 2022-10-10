@@ -1,6 +1,6 @@
-name: "Found a Bug! :bug:"
+name: "Found a Bug!"
 title: "[BUG] "
-description: A new bug found.
+description: "File a new issue of the type :bug:"
 labels: ["bug"]
 body:
   - type: markdown
