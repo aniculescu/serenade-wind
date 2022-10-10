@@ -6,9 +6,21 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks in advance for taking the time to file this bug!
-        --- 
-        For consistency sake, please fill out the following simple form.
+        Thanks in advance for taking the time to file this issue! In addition to the `bug` label, consider adding others you might find relevant:
+         - `CI`
+         - `CLI`
+         - `beginner friendly`
+         - `Performance`
+         - `linux`
+         - `macos`
+         - `windows`
+         - `android`
+         - `electron`
+         
+        ---
+        Note:
+        
+        If you would like to propose a design change or new feature for the Neon API or the neon command-line tool, we encourage you to [submit an RFC](https://github.com/neon-bindings/rfcs)!
   - type: textarea
     id: issue_summary
     attributes:
