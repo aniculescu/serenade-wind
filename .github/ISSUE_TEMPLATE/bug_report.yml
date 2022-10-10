@@ -15,7 +15,6 @@ body:
       label: Short Summary
       description: Please provide a brief description of the issue
       placeholder: "example: neon crashes when ..."
-      value: ""
     validations:
       required: true
   - type: textarea
