@@ -1,6 +1,6 @@
 name: "Found a Bug!"
 title: "[BUG] "
-description: "File a new issue of the type :bug:"
+description: "File a new *bug* issue."
 labels: ["bug"]
 body:
   - type: markdown
@@ -10,27 +10,47 @@ body:
         --- 
         For consistency sake, please fill out the following simple form.
   - type: textarea
-    id: what-happened
+    id: issue_summary
     attributes:
-      label: What happened?
-      description: Describe the issue and, if possible, the steps taken to reproduce the issue.
-      placeholder: Tell us what you see!
-      value: "A bug happened!"
+      label: Short Summary
+      description: Please provide a brief description of the issue
+      placeholder: "example: neon crashes when ..."
+      value: ""
     validations:
       required: true
-  - type: dropdown
-    id: browsers
+  - type: textarea
+    id: issue_repro
     attributes:
-      label: What browsers are you seeing the problem on?
-      multiple: true
-      options:
-        - Firefox
-        - Chrome
-        - Safari
-        - Microsoft Edge
+      label: Steps to reproduce
+      description: "Help us reproduce this issue with some step-by-step instructions"
+      value: |
+        1. 
+        2. 
+        3. 
+        ...
+    validations:
+      required: true
   - type: input
-    id: browswer_version
+    id: node_version
     attributes:
-      label: Browser version
-      description: "Please include your browser version"
-      placeholder: "Version 1.43.93 Chromium: 105.0.5195.127 (Official Build) (x86_64)"
+      label: "Node version: "
+      description: "Please specify the version of `node` you are running"
+      placeholder: "v18.10.0"
+  - type: input
+    id: npm_version
+    attributes:
+      label: "Node Package Manager version: "
+      description: "Please specify the version of `npm` you are running"
+      placeholder: "8.19.2"
+  - type: input
+    id: neon_version
+    attributes:
+      label: "NEON version(s): "
+      description: "Please specify the versions of `neon` that exhibit this issue"
+      placeholder: "example: v0.10.0, v0.9.x"
+  - type: input
+    id: os_version_arch
+    attributes:
+      label: OS Version
+      description: "Please provide your OS version and Architecture"
+      placeholder: "example: macOS 12.5.1 Intel"
