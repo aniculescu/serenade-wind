@@ -7,15 +7,17 @@ body:
     attributes:
       value: |
         Thanks in advance for taking the time to file this issue! In addition to the `bug` label, consider adding others you might find relevant:
-         - `CI`
-         - `CLI`
-         - `beginner friendly`
-         - `Performance`
-         - `linux`
-         - `macos`
-         - `windows`
-         - `android`
-         - `electron`
+        | Label | Description |
+        |:-----:|-------------|
+        | `CI` | Continuous Integration |
+        | `CLI` | Command Line Interface |
+        | `beginner friendly` | Great for those just starting out |
+        | `Performance` | Anything that affects performance |
+        | `linux` | Specific to Linux |
+        | `macos` | Specific to MacOS |
+        | `windows` | Specific to Windows |
+        | `android` | Specific to Android |
+        | `electron` | Specific to Electron apps |
          
         ---
         Note:
