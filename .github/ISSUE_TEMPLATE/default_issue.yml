@@ -2,7 +2,7 @@ name: New Issue
 title: Neon Issue
 description: File a new issue.
 body: 
-  - 
+  - type: markdown
     attributes: 
       value: |
           Thanks in advance for taking the time to file this issue! 
@@ -24,7 +24,6 @@ body:
           | `electron` | Specific to Electron apps |
            
           ---
-    type: markdown
   - 
     attributes: 
       description: "Please provide a brief description of the issue"
