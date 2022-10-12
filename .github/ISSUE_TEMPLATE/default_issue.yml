@@ -34,7 +34,7 @@ body:
     validations: 
       required: true
   - 
-    atributes: 
+    attributes: 
       value: "> For context, please give us some details of your setup:\n"
     type: markdown
   - 
