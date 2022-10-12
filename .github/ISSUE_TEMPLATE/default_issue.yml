@@ -1,17 +1,21 @@
-name: "Found a Bug!"
-title: "[BUG] "
-description: "File a new *bug* issue."
-labels: ["bug"]
+name: "New Issue"
+title: "Neon Issue"
+description: "File a new issue.  Thanks for your contributions."
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks in advance for taking the time to file this issue! In addition to the `bug` label, consider adding others you might find relevant:
+        Thanks in advance for taking the time to file this issue! 
+        ":bug: If you think this is a bug, please use the bug issue template."
+        
+        Otherwise, please help us stay organized by selecting one or more of the following labels as applicable to your new issue.
+        
         | Label | Description |
         |:-----:|-------------|
         | `CI` | Continuous Integration |
         | `CLI` | Command Line Interface |
         | `beginner friendly` | Great for those just starting out |
+        | `enhancement` | For new features/design changes, use an [RFC](https://github.com/neon-bindings/rfcs) |
         | `Performance` | Anything that affects performance |
         | `linux` | Specific to Linux |
         | `macos` | Specific to MacOS |
@@ -20,29 +24,19 @@ body:
         | `electron` | Specific to Electron apps |
          
         ---
-        Note:
-        
-        If you would like to propose a design change or new feature for the Neon API or the neon command-line tool, we encourage you to [submit an RFC](https://github.com/neon-bindings/rfcs)!
+
   - type: textarea
     id: issue_summary
     attributes:
       label: Short Summary
       description: Please provide a brief description of the issue
-      placeholder: "example: neon crashes when ..."
+      placeholder: "example: the issue template should be dynamically generated..."
     validations:
       required: true
-  - type: textarea
-    id: issue_repro
-    attributes:
-      label: Steps to reproduce
-      description: "Help us reproduce this issue with some step-by-step instructions"
+  - type: markdown
+    atributes:
       value: |
-        1. 
-        2. 
-        3. 
-        ...
-    validations:
-      required: true
+      "> For context, please give us some details of your setup:"
   - type: input
     id: node_version
     attributes:
