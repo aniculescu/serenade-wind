@@ -1,12 +1,12 @@
 name: New Issue
 title: Neon Issue
-description: File a new issue.
+description: Use this template for all issues that are not bugs.
 body: 
   - type: markdown
     attributes: 
       value: |
           Thanks in advance for taking the time to file this issue! 
-          🐛 If you think this is a bug, please use the bug issue template.
+          If you think this is a 🐛 bug, please use the [bug issue template](https://github.com/neon-bindings/issues/new?assignees=&labels=&template=default_issue.yml&title=Neon+Issue).
           
           Otherwise, please help us stay organized by selecting one or more of the following labels as applicable to your new issue.
           
