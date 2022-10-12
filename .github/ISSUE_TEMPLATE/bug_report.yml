@@ -1,18 +1,15 @@
 name: "Found a Bug! 🐛"
-title: "🐛 [BUG] - "
-description: "Use this template to report a `bug`.  Thank you!"
+title: "🐛 [BUG] - <title>"
+description: "Use this template to report a bug. Thank you!"
 labels: ["bug"]
 body:
   - type: markdown
     attributes:
       value: |
         Thanks in advance for taking the time to file this issue!
+        We hope this simple template will improve issue resolution time and minimize the need for _context discovery_ discussions.
         ______
-        
-        Note:
-        
-        If you would like to propose a design change or new feature for the Neon API or the neon command-line tool, we encourage you to [submit an RFC](https://github.com/neon-bindings/rfcs)!
-        
+        **Note**: We encourage you to [submit an RFC](https://github.com/neon-bindings/rfcs) if you would like to propose a **design change** or a **new feature** for the Neon API or the Neon command-line tool.
         ______
         
         In addition to the `bug` label, consider adding others you might find relevant:
