@@ -1,12 +1,19 @@
-name: "Found a Bug!"
-title: "[BUG] "
-description: "File a new *bug* issue."
+name: "Found a Bug! 🐛"
+title: "🐛 [BUG] - "
+description: "Use this template to report a `bug`.  Thank you!"
 labels: ["bug"]
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks in advance for taking the time to file this issue! In addition to the `bug` label, consider adding others you might find relevant:
+        Thanks in advance for taking the time to file this issue!
+        ---
+        Note:
+        
+        If you would like to propose a design change or new feature for the Neon API or the neon command-line tool, we encourage you to [submit an RFC](https://github.com/neon-bindings/rfcs)!
+        ---
+        
+        In addition to the `bug` label, consider adding others you might find relevant:
         | Label | Description |
         |:-----:|-------------|
         | `CI` | Continuous Integration |
@@ -17,12 +24,7 @@ body:
         | `macos` | Specific to MacOS |
         | `windows` | Specific to Windows |
         | `android` | Specific to Android |
-        | `electron` | Specific to Electron apps |
-         
-        ---
-        Note:
-        
-        If you would like to propose a design change or new feature for the Neon API or the neon command-line tool, we encourage you to [submit an RFC](https://github.com/neon-bindings/rfcs)!
+        | `electron` | Specific to Electron apps |     
   - type: textarea
     id: issue_summary
     attributes:
