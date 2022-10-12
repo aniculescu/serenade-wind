@@ -6,7 +6,7 @@ body:
     attributes: 
       value: |
           Thanks in advance for taking the time to file this issue! 
-          :bug: If you think this is a bug, please use the bug issue template.
+          🐛 If you think this is a bug, please use the bug issue template.
           
           Otherwise, please help us stay organized by selecting one or more of the following labels as applicable to your new issue.
           
