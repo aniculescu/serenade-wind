@@ -66,6 +66,3 @@ body:
       placeholder: "example: macOS 12.5.1 Intel"
     id: os_version_arch
     type: input
-description: "File a new issue.  Thanks for your contributions."
-name: "New Issue"
-title: "Neon Issue"
