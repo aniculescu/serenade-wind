@@ -1,63 +1,71 @@
+name: New Issue
+title: Neon Issue
+description: File a new issue.
+body: 
+  - 
+    attributes: 
+      value: |
+          Thanks in advance for taking the time to file this issue! 
+          :bug: If you think this is a bug, please use the bug issue template.
+          
+          Otherwise, please help us stay organized by selecting one or more of the following labels as applicable to your new issue.
+          
+          | Label | Description |
+          |:-----:|-------------|
+          | `CI` | Continuous Integration |
+          | `CLI` | Command Line Interface |
+          | `beginner friendly` | Great for those just starting out |
+          | `enhancement` | For new features/design changes, use an [RFC](https://github.com/neon-bindings/rfcs) |
+          | `Performance` | Anything that affects performance |
+          | `linux` | Specific to Linux |
+          | `macos` | Specific to MacOS |
+          | `windows` | Specific to Windows |
+          | `android` | Specific to Android |
+          | `electron` | Specific to Electron apps |
+           
+          ---
+    type: markdown
+  - 
+    attributes: 
+      description: "Please provide a brief description of the issue"
+      label: "Short Summary"
+      placeholder: "example: the issue template should be dynamically generated..."
+    id: issue_summary
+    type: textarea
+    validations: 
+      required: true
+  - 
+    atributes: 
+      value: "> For context, please give us some details of your setup:\n"
+    type: markdown
+  - 
+    attributes: 
+      description: "Please specify the version of `node` you are running"
+      label: "Node version: "
+      placeholder: v18.10.0
+    id: node_version
+    type: input
+  - 
+    attributes: 
+      description: "Please specify the version of `npm` you are running"
+      label: "Node Package Manager version: "
+      placeholder: "8.19.2"
+    id: npm_version
+    type: input
+  - 
+    attributes: 
+      description: "Please specify the versions of `neon` that exhibit this issue"
+      label: "NEON version(s): "
+      placeholder: "example: v0.10.0, v0.9.x"
+    id: neon_version
+    type: input
+  - 
+    attributes: 
+      description: "Please provide your OS version and Architecture"
+      label: "OS Version"
+      placeholder: "example: macOS 12.5.1 Intel"
+    id: os_version_arch
+    type: input
+description: "File a new issue.  Thanks for your contributions."
 name: "New Issue"
 title: "Neon Issue"
-description: "File a new issue.  Thanks for your contributions."
-body:
-  - type: markdown
-    attributes:
-      value: |
-        Thanks in advance for taking the time to file this issue! 
-        :bug: If you think this is a bug, please use the bug issue template.
-        
-        Otherwise, please help us stay organized by selecting one or more of the following labels as applicable to your new issue.
-        
-        | Label | Description |
-        |:-----:|-------------|
-        | `CI` | Continuous Integration |
-        | `CLI` | Command Line Interface |
-        | `beginner friendly` | Great for those just starting out |
-        | `enhancement` | For new features/design changes, use an [RFC](https://github.com/neon-bindings/rfcs) |
-        | `Performance` | Anything that affects performance |
-        | `linux` | Specific to Linux |
-        | `macos` | Specific to MacOS |
-        | `windows` | Specific to Windows |
-        | `android` | Specific to Android |
-        | `electron` | Specific to Electron apps |
-         
-        ---
-
-  - type: textarea
-    id: issue_summary
-    attributes:
-      label: Short Summary
-      description: Please provide a brief description of the issue
-      placeholder: "example: the issue template should be dynamically generated..."
-    validations:
-      required: true
-  - type: markdown
-    atributes:
-      value: |
-        > For context, please give us some details of your setup:
-  - type: input
-    id: node_version
-    attributes:
-      label: "Node version: "
-      description: "Please specify the version of `node` you are running"
-      placeholder: "v18.10.0"
-  - type: input
-    id: npm_version
-    attributes:
-      label: "Node Package Manager version: "
-      description: "Please specify the version of `npm` you are running"
-      placeholder: "8.19.2"
-  - type: input
-    id: neon_version
-    attributes:
-      label: "NEON version(s): "
-      description: "Please specify the versions of `neon` that exhibit this issue"
-      placeholder: "example: v0.10.0, v0.9.x"
-  - type: input
-    id: os_version_arch
-    attributes:
-      label: OS Version
-      description: "Please provide your OS version and Architecture"
-      placeholder: "example: macOS 12.5.1 Intel"
