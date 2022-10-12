@@ -7,11 +7,13 @@ body:
     attributes:
       value: |
         Thanks in advance for taking the time to file this issue!
-        ---
+        ______
+        
         Note:
         
         If you would like to propose a design change or new feature for the Neon API or the neon command-line tool, we encourage you to [submit an RFC](https://github.com/neon-bindings/rfcs)!
-        ---
+        
+        ______
         
         In addition to the `bug` label, consider adding others you might find relevant:
         | Label | Description |
