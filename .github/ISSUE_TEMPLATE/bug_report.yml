@@ -49,7 +49,6 @@ body:
     attributes:
       label: Suggested fix
       description: "If you have a proposed way to fix this bug, please summarize below. PRs work too :)"
-      value: ''
   - type: input
     id: node_version
     attributes:
