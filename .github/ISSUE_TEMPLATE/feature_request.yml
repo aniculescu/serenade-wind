@@ -15,21 +15,16 @@ body:
     attributes:
       label: "Start Date"
       placeholder: "fill me in with today's date, `YYYY-MM-DD`"  
-  - attributes:
-      description: "Please provide a brief description of the issue"
-      label: "Short Summary"
-      placeholder: "example: this issue template should be dynamically generated..."
-    id: issue_summary
-    type: textarea
-    validations:
-      required: false
-  - type: markdown
+  - type: input
+    id: rfc_pr
     attributes:
-      value: |
-        > Thanks in advance for taking the time to file this issue! 
-        > We appreciate it!
-        - RFC PR: (leave this empty)
-        - Neon Issue: (leave this empty)
+      label: RFC PR
+      value: Leave this empty
+  - type: input
+    id: rfc_issue
+    attributes:
+      label: Neon Issue
+      value: Leave this empty      
   - type: textarea
     id: rfc_summary
     attributes:
