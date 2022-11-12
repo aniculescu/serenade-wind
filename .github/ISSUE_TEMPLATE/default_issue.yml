@@ -1,16 +1,11 @@
-name: New Issue
-title: Generic Issue
+name: Other
+title: <issue title>
 description: Use this template for all issues that are not bugs or feature requests.
 body:
-  - type: markdown
-    attributes:
-      value: |
-        Thanks in advance for taking the time to file this issue! We appreciate it!
-        ---
   - attributes:
       description: "Please provide a brief description of the issue"
       label: "Short Summary"
-      placeholder: "example: the issue template should be dynamically generated..."
+      placeholder: "example: this issue template should be dynamically generated..."
     id: issue_summary
     type: textarea
     validations:
@@ -18,4 +13,5 @@ body:
   - type: markdown
     attributes:
       value: |
-        If you think this is a 🐛 bug, please use the [bug issue template](https://github.com/neon-bindings/issues/new?assignees=&labels=&template=default_issue.yml&title=Neon+Issue).         
+        > Thanks in advance for taking the time to file this issue! 
+        > We appreciate it!
