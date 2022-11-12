@@ -1,6 +1,7 @@
-name: Feature Request RFC 💡 
+name: Feature Request (RFC) 💡 
 title: <title>
 description: Use this template for a new feature request or a design change. 
+labels: ["enhancement"]
 body:
   - type: input
     attributes:
@@ -19,12 +20,12 @@ body:
     id: rfc_pr
     attributes:
       label: RFC PR
-      value: Leave this empty
+      placeholder: Leave this empty
   - type: input
     id: rfc_issue
     attributes:
       label: Neon Issue
-      value: Leave this empty      
+      placeholder: Leave this empty      
   - type: textarea
     id: rfc_summary
     attributes:
