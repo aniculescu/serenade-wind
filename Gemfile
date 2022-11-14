@@ -8,7 +8,6 @@
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-# gem "jekyll", "~> 3.8.5"
 gem "jekyll", github: "jekyll/jekyll" 
 
 # Faster parsing
@@ -31,8 +30,5 @@ group :jekyll_plugins do
    gem 'jekyll-seo-tag'
    gem 'jekyll-archives'
    gem 'octopress-minify-html'
-   # gem 'jekyll-commonmark'
    gem 'jekyll-include-cache'
-# gem 'jekyll-multiple-languages-plugin'
-# gem 'amp-jekyll'
 end
