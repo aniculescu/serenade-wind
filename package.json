@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/aniculescu/serenade-wind#readme",
   "devDependencies": {
-    "cssnano": "^4.1.10",
+    "cssnano": "^5.1.14",
     "git-scripts": "^0.4.3",
     "html-minifier": "^4.0.0",
     "postcss-cli": "^7.1.1",
