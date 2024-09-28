@@ -23,7 +23,7 @@
     "cssnano": "^5.1.14",
     "git-scripts": "^0.4.3",
     "html-minifier": "^4.0.0",
-    "postcss-cli": "^7.1.1",
+    "postcss-cli": "^11.0.0",
     "surge": "^0.23.1",
     "uglify-js": "^3.10.0"
   }
