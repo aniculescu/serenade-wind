@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+
+{% assign img_domain = base.url | prepend: site.url | append: '/images' %}
+<html lang="{{ page.lang | default: site.lang | default: 'en-US' }}" class="no-js">
+  <head>
+    <title>
+      {%- if page.title -%}
+        {{ page.title | escape }}
+      {%- else -%}
+        {{ site.title | escape }}
+      {%- endif -%}
+    </title>
+    <style type="text/css">
+    </style>
+  </head>
+  <body>
+    <h1> {{ page.cycle_title | escape }}</h1>
+    <h2> {{page.title | escape}}</h2>
+    <h3> {{page.date}} in {{page.location}} | GA-{{page.ga}}</h3>
+  {{ content }}
+  </body>
+</html>

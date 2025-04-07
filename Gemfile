@@ -9,6 +9,7 @@
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 gem "jekyll"
+gem "racc"
 
 # Faster parsing
 gem "liquid-c"
