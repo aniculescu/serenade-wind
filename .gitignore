@@ -1,5 +1,8 @@
 # General
 .DS_Store
+scraper/lectures/*
+scraper/node_modules/*
+scraper/lectureData.txt
 
 #JEKYLL THINGS
 _site
@@ -7,6 +10,7 @@ _site
 .jekyll-metadata
 _drafts
 public
+
 # images
 .jekyll-cache
 jekyll-image-gallery-example

@@ -1,6 +1,16 @@
 import * as fs from 'fs';
 import * as cheerio from 'cheerio';
 
+/*
+Given lecture data:
+- Generate an html file with the lecture content only
+- Add metadata to the file (jekyll front matter)
+- Download images, rename and replace the src attribute
+---
+- Read json file
+- Parse html of the page based on lectureURL
+*/
+
 function addTmplHeader(metadata){
 
 }
@@ -11,7 +21,7 @@ async function scrapeHTML(url) {
     if (!response.ok) {
       throw new Error(`HTTP error! status: ${response.status}`);
     }
-    const html = await response.text();
+    const html = await response.html();
     const $ = cheerio.load(html);
     let data;
 
@@ -66,7 +76,7 @@ async function scrapeHTML(url) {
 async function createFile(n,c) {
   try {
     const content = c;
-    await fs.writeFileSync(n, content);
+    fs.writeFileSync(n, content);
   } catch (err) {
     console.log(err);
   }
@@ -85,14 +95,35 @@ async function downloadImage(url, filepath,filename) {
  
 }
 
-// Usage example:
-const url = 'https://rsarchive.org/Lectures/GA134/English/RSPC1947/19120101p01.html';
-scrapeHTML(url).then(data => {
-  if (data) {
-    // console.log("Scraped data:", data);
-    // console.log(data);
-      createFile("ga-134-lecture-6.html",data);
-
-
+function getLectures(ga){
+  const path = "lectures/ga/";
+  const file = ga+".json";
+  try {
+    const data = fs.readFileSync(path+file, 'utf8');
+    const jsonData = JSON.parse("["+data.replace(/,*$/, "")+"]");
+    jsonData.sort((a,b)=>{
+      const aDate = new Date(a.date);
+      const bDate = new Date(b.date);
+      return aDate - bDate;
+    });
+    console.log(jsonData);
+    jsonData.forEach((lecture) => {
+      const url = lecture.lectureUrl;
+      const title = lecture.title;
+      // scrapeMe(url, ga,title);
+    });
+  } catch (error) {
+    console.error('Error reading or parsing JSON file:', error);
   }
-});
+}
+
+function scrapeMe(lecture){
+  scrapeHTML(url).then(data => {
+    if (data) {
+        createFile("ga-134-lecture-6.html",data);
+  
+  
+    }
+  });
+}
+getLectures("134");
