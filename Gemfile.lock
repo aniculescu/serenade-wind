@@ -149,6 +149,7 @@ GEM
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (7.0.5)
+    racc (1.8.1)
     rake (13.3.1)
     rb-fsevent (0.11.2)
     rb-inotify (0.11.1)
@@ -233,6 +234,7 @@ DEPENDENCIES
   liquid-c
   minima (~> 2.0)
   octopress-minify-html
+  racc
   sassc
 
 BUNDLED WITH
